@@ -24,7 +24,7 @@
     padding: 50px 50px;
 }
 
-.list:hover  {
+.todo-item:hover  {
     color: rgb(210, 80, 210);
 }
 
