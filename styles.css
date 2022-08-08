@@ -10,10 +10,14 @@
 #mainheading {
     font-size: 70px;
     font-weight: 600;
+    text-align: center;
 }
 
 #todo {
-    margin: 100px;
+    
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
     border: 1px solid grey;
     border-radius: 2px;
     width: 250px;
@@ -25,7 +29,21 @@
 }
 
 #menu {
-    padding-left: 550px;
+    font-size: 20px;;
+}
+
+#listchunk {
+    margin-left: 40px;
+}
+
+#inputbox {
+    margin-left: 40px;
+    padding: 5px;
+}
+
+#listheading {
+    font-style: italic;
+    text-align: center;
 }
   
 img {
