@@ -4,6 +4,12 @@
 * {
     font-family: "Roboto";
     background-color: azure;
+    margin: 5px;
+}
+
+#mainheading {
+    font-size: 70px;
+    font-weight: 600;
 }
 
 #todo {
@@ -17,4 +23,13 @@
 .list:hover  {
     color: rgb(210, 80, 210);
 }
+
+#menu {
+    padding-left: 550px;
+}
   
+img {
+    padding-left: 550px;
+    width: 75px;
+    height: auto;
+}
